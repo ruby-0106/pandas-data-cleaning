@@ -16,3 +16,5 @@ Project Process:
            codes when connecting to database.
      (2.3) Import pandas for data manipulation
      (2.4) Upload the dataset, do EDA and Cleaning
+3. Load to PostgreSQL for further analysis
+4. Load to Excel for further analysis
