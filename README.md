@@ -1,4 +1,4 @@
-# A-Simple-Data-Pipeline
+# A-Simple-Data-Pipeline (Personal Project) 
 Building a simple data pipeline: kaggle-jupyterNotebook-postgres
   Dataset: Google Ads sales dataset ("https://shorturl.at/6ssZB")
 Reason(Real-World Purpose): Digital Marketing is popular these days, therefore if I am a Data Engineer and 
