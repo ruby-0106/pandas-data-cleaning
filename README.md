@@ -1,4 +1,4 @@
-# A-Simple-Data-Pipeline (Individual Project) 
+# Cleaned Raw Data with Pandas and Store in Excel for Further Valueable Analysis(Individual Project) 
 Building a simple data pipeline: **kaggle-jupyterNotebook-postgres**
 
 **Dataset**: Google Ads sales dataset ("https://shorturl.at/6ssZB")
