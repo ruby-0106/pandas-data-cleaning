@@ -1,13 +1,16 @@
 # Cleaned Raw Data with Pandas and Store in Excel for Further Valueable Analysis(Individual Project) 
-**Work-Flow**: **kaggle-jupyterNotebook-postgres**
+**Work-Flow**: **Kaggle-JupyterNotebook-PostgreSQL-Excel**
 
 **Dataset**: Google Ads sales dataset ("https://shorturl.at/6ssZB")
 
-**Reason(Real-World Purpose)**: Digital Marketing is popular these days, therefore if I am a Data Engineer and 
-                            could get the dataset, change into a valueable one and then provide to Data Analyst,
+**Reason(Real-World Purpose)**: Digital Marketing is popular these days, therefore if I am a Data Analyst and 
+                            could get the dataset, change into a valueable one and then,
                             it would be a great help for the company to know whether this platform(Google Ads)
-                            can bring good sales or new customers.
-**Reason(Showcase My Skills)**: Data Cleaning with Python and Connecting with PostgreSQL 
+                            can bring good value or not. 
+                            
+**Reason(Showcase My Skills)**: Data Cleaning with Pandas and Connecting with PostgreSQL 
+
+**Output**: Cleaned Data in Database and in Excel
 
 **Project Process:**
 1. Get a dataset from Kaggle.
