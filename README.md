@@ -1,13 +1,15 @@
-# A-Simple-Data-Pipeline (Personal Project) 
-Building a simple data pipeline: kaggle-jupyterNotebook-postgres
-  Dataset: Google Ads sales dataset ("https://shorturl.at/6ssZB")
-Reason(Real-World Purpose): Digital Marketing is popular these days, therefore if I am a Data Engineer and 
+# A-Simple-Data-Pipeline (Individual Project) 
+Building a simple data pipeline: **kaggle-jupyterNotebook-postgres**
+
+**Dataset**: Google Ads sales dataset ("https://shorturl.at/6ssZB")
+
+**Reason(Real-World Purpose)**: Digital Marketing is popular these days, therefore if I am a Data Engineer and 
                             could get the dataset, change into a valueable one and then provide to Data Analyst,
                             it would be a great help for the company to know whether this platform(Google Ads)
                             can bring good sales or new customers.
-Reason(Showcase My Skills): Data Cleaning with Python and Connecting with PostgreSQL 
+**Reason(Showcase My Skills)**: Data Cleaning with Python and Connecting with PostgreSQL 
 
-Project Process:
+**Project Process:**
 1. Get a dataset from Kaggle.
 2. Upload to Jupyter Notebook.
      (2.1) Install sqlalchemy and psycopg2_binary which are python libraries_
@@ -18,3 +20,8 @@ Project Process:
      (2.4) Upload the dataset, do EDA and Cleaning
 3. Load to PostgreSQL for further analysis
 4. Load to Excel for further analysis
+
+   For the further insight for my work process and thinking, recommend you to check in the file named **"Cleaning with pandas, jupyter notebook.ipynb"**.
+   There, I explained details steps.
+   
+   Thank you!! 😉
