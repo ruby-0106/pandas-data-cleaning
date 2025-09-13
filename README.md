@@ -1,5 +1,5 @@
 # Cleaned Raw Data with Pandas and Store in PostgreSQL and Excel for Further Valueable Analysis(Individual Project) 
-**Work-Flow**: **Kaggle-JupyterNotebook-PostgreSQL-Excel**
+**Work-Flow**: Kaggle-JupyterNotebook-PostgreSQL-Excel
 
 **Dataset**: Google Ads sales dataset ("https://shorturl.at/6ssZB")
 
